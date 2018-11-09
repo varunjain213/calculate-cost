@@ -1,2 +1,2 @@
 # calculate-cost
-Solution to question asked in Gautham's interview
+Solution to an interview question.
